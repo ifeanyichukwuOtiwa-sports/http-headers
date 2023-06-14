@@ -6,8 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class HttpHeadersApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(HttpHeadersApplication.class, args);
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(HttpHeadersApplication.class, args);
+    }
 
 }
